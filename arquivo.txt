@@ -1,1 +1,2 @@
 Primeira linha do projeto no repositório local (escrita pelo usuário holiveira_07)
+Segunda linha do projeto, após a criação do repositório remoto.
